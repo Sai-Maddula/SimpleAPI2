@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\maddula.sai\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\maddula.sai\\.nuget\\packages"
+    ]
+  }
+}
